@@ -11,4 +11,4 @@ respectively. To lower annotation costs in the training set, only five frames pe
 
 Please send emails to me xiao.wei.xu@foxmail.com for the link and the password to download the dataset and the benchmark.
 
-Please refer to the code (https://github.com/xmed-lab/GraphEcho) and our published ICCV paper (https://arxiv.org/abs/2309.11145) for more detailes.
+Please refer to the code (https://github.com/xmed-lab/GraphEcho) and our ICCV paper (https://arxiv.org/abs/2309.11145) for more detailes.
