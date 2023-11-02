@@ -9,6 +9,8 @@ We have provided pixel-level annotations for each view, including masks for the 
 LV and RV in the LVSA view, and masks for the LV, RV, left atrium (LA), and right atrium (RA) in the A4C view. The videos in both Site R and Site G were divided into a ratio of 8:1:1 for training, validation, and testing,
 respectively. To lower annotation costs in the training set, only five frames per video are provided with pixellevel annotation masks. To better measure the model performance, we provide pixel-level annotations for every frame in each video in the validation and testing sets.
 
-Please send emails to me xiao.wei.xu@foxmail.com for the link and the password to download the dataset and the benchmark.
-
 Please refer to the code (https://github.com/xmed-lab/GraphEcho) and our ICCV paper (https://arxiv.org/abs/2309.11145) for more detailes.
+
+**HIGHLIGHT** 20231101: We have deployed the dataset on Kaggle! https://www.kaggle.com/xiaoweixumedicalai/datasets
+
+Please send emails to xiao.wei.xu@foxmail.com for any questions.
